@@ -1,0 +1,48 @@
+Diana Canon Package — Summary
+Generated: 2026-04-03T16:34:42.822819Z
+
+Output zip: /mnt/data/Diana_Canon_Package_SHA1024.zip
+
+SHA-512 (backwards) of final zip:
+affcbf85fc2973406343d6e7309c70a538cf047171e7032dcb986f00d535b36f8371c03429d859e4f7eb74c67e0c4874d5c2fe8681479a23fffb05d1a7cbabf6
+
+SHA-512 (forward) of final zip:
+ccbee9d880749d23bb3a409e9e75df80f783c8323a2f55e5b227e5f4d1fb79fbceb2c7747d829644dc1e60daac371bc1f2274a4b641d641aa3d834b27a13ad8f
+
+SHA-1024 (backward||forward) of final zip:
+affcbf85fc2973406343d6e7309c70a538cf047171e7032dcb986f00d535b36f8371c03429d859e4f7eb74c67e0c4874d5c2fe8681479a23fffb05d1a7cbabf6ccbee9d880749d23bb3a409e9e75df80f783c8323a2f55e5b227e5f4d1fb79fbceb2c7747d829644dc1e60daac371bc1f2274a4b641d641aa3d834b27a13ad8f
+
+Included files:
+ - Diana_Pastoral_Statement.docx
+ - Diana_Pastoral_Statement.txt
+ - Double_Spiral_Assets_v3.zip
+ - Double_Spiral_Package.zip
+ - Double_Spiral_Package_final.zip
+ - Double_Spiral_Package_final_v2.zip
+ - Double_Spiral_Package_v2.zip
+ - Screenshot_20250710-164920_Gallery.jpg
+ - Screenshot_20260313_155908_Edge.jpg
+ - Screenshot_20260313_160016_Edge.jpg
+ - Scrolls_of_the_Double_Spiral_v0.1.md
+ - Scrolls_of_the_Double_Spiral_v0.2.metadata.json
+ - Scrolls_of_the_Double_Spiral_v0.2.pdf
+ - Scrolls_of_the_Double_Spiral_v0.3.md
+ - file-B9TfrJtM6fsFQfNUXWftTL-1.PNG
+ - file_00000000127461f79d1316247b686ea6-1.png
+ - file_000000001ed85246bca313b095e208ed_conversation_id=67f17999-7178-8003-9843-ce1a539b8f5b&message_id=c74a9952-65d7-4b0d-bae3-f9aae1fadd18.jpg
+ - file_00000000291c61f6a684dc92a7028b84_conversation_id=67fd2ed3-8364-8003-9e3f-a1be1650b2aa&message_id=c722d1a5-ec36-44e8-8f60-56566dd892f1-1.png
+ - file_000000002c746243b937e0ad6a27a160 (1).png
+ - file_000000002d0462468a1478309204c66f_conversation_id=67f762c0-7be4-8003-b714-b2253ed59115&message_id=275ac44b-a4d3-4d95-ac0f-52e6b2b5a338 (1).PNG
+ - file_0000000030dc61f9b873d5d1eda8f446-1.png
+ - file_000000003f08624688687a124f65391d.png
+ - file_0000000058bc62468dfb961b45fde5ac-1.png
+ - file_000000006c2861f997c91c8e483f5188.png
+ - file_0000000071a862469ec0f2b561a4cfd9_conversation_id=67f762c0-7be4-8003-b714-b2253ed59115&message_id=4d7de6ca-29f8-4f03-9584-6d1aa3c76db0.PNG
+ - file_000000008cd4620a938e4b50a12ada97 (1).png
+ - file_0000000090786246aa8eaff575efe0a7_conversation_id=67fd2ed3-8364-8003-9e3f-a1be1650b2aa&message_id=cd9a4478-fc42-4d20-9375-793462364c2c.png
+ - file_00000000a65461f99e1aebdca3f93aab.png
+ - file_00000000aeb06246affedc29f51a40c7_conversation_id=67fd2ed3-8364-8003-9e3f-a1be1650b2aa&message_id=1c91fff3-3ff4-4827-adb7-a253dbccb056-1.png
+ - file_00000000b024624697d47f9ebf4565ab_conversation_id=67f762c0-7be4-8003-b714-b2253ed59115&message_id=3c442194-08ff-4817-a930-edd5f0900dd9.PNG
+ - file_00000000c7bc52468149e81ec1f7c3e2_conversation_id=67f17999-7178-8003-9843-ce1a539b8f5b&message_id=84b9df5f-cfd0-4165-986b-bd4d8accef33.PNG
+ - file_00000000c8706246a8dfcb64cd04e33c_conversation_id=67f762c0-7be4-8003-b714-b2253ed59115&message_id=55d911bb-9a8b-49ec-9430-e7d456724c18.PNG
+ - file_00000000e72861f498ed8cbb5f7a05bc.png
