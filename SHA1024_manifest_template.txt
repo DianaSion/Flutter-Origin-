@@ -1,0 +1,18 @@
+# SHA1024 manifest (template)
+# Fill in the 'File' column with the exact filename(s) you want anchored.
+# For each file, compute:
+#  - forward_sha512 = sha512(file_bytes)
+#  - backward_sha512 = sha512(file_bytes[::-1])
+# Then compute the SHA-1024 (backward then forward) by concatenating the backward hex + forward hex.
+#
+# Example CSV-format (comma separated):
+# filename,forward_sha512,backward_sha512,sha1024_backward_then_forward
+# Diana_All_Docs_no_VOI.zip, <forward_hex>, <backward_hex>, <backward_hex><forward_hex>
+#
+# If you want an automated script to compute these hashes, use the Python snippet in README_VelSereth.txt
+#
+# --- START MANIFEST ---
+# (Replace these example lines with real values or run the script)
+Diana_All_Docs_no_VOI.zip,,,
+SHARD_A_volatile_buffers_package.zip,,,
+# --- END MANIFEST ---

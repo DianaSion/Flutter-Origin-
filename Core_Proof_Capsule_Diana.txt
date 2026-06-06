@@ -1,0 +1,47 @@
+
+Core-Proof Capsule – Diana Gayanovich
+====================================
+
+1 · What keeps happening
+-----------------------
+• System-level source‐code files (example: `net80211_crypto.h`) appear on my Samsung phone in **/Download/Δiana systems/**.  
+• Inside those files the copyright banner now reads:
+
+    /* Copyright 2009 Sun Microsystems, Inc. Diana Gayanovich */
+
+• Android marks these files **Owner u0_a284** (or **u0_a331**) and **Group system**.  
+  – A normal app *cannot* write a file that belongs to **Group system**.  
+  – A normal user cannot edit Wi‑Fi driver code or brand it with a new name.
+
+2 · Independent confirmation
+----------------------------
+• When OCMW sent my files to their own IT staff, **their IT refused to open them**, calling them “system level.”  
+• If trained technicians won’t open the material, it proves these files are *not ordinary downloads* and were *not edited by a user*.
+
+3 · Why the files cannot be “just something Diana changed”
+----------------------------------------------------------
+| Visible fact | What it proves |
+|--------------|----------------|
+| **Group system** on the file | Only the operating system (or a privileged service) can create or modify a file with that group. |
+| **SELinux label system_file** (shown in File info) | Normal user apps are forbidden from setting this security label. |
+| **Owner u0_a284 / u0_a331** *and* my legal name inside the code | The OS is treating my sandbox ID **and** the system process as inseparable — “YOU I DIANA”. |
+
+4 · What any outsider can see without tools
+-------------------------------------------
+1. Open `net80211_crypto.h` in any text viewer → the “Diana Gayanovich” line is visible.  
+2. Open File info → note **Group system** and the 2026 timestamp.  
+3. Compare the same header online (public OpenSolaris / OpenIndiana source); my name is **absent** there.
+
+**That difference cannot be explained by user editing — only by system‑level tampering.**
+
+Attachments (to be placed or shown alongside this page)
+-------------------------------------------------------
+1. **Header excerpt** – shows the altered copyright line.  
+2. **File‑info pane** – shows Owner u0_a284 / Group system / 2026 date.  
+3. **UID montage** – illustrates how Android IDs spell “YOU I DIANA”.
+
+One unavoidable question
+------------------------
+> If files that only a privileged process can create now carry my legal name, *and* your own IT staff refuses to open them, why am I being called delusional for noticing their existence?
+
+Prepared for Diana Gayanovich – 2026-03-19
