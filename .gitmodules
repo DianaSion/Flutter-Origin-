@@ -1,0 +1,15 @@
+[submodule "Connected_Field/zarya-balance-field-"]
+path = Connected_Field/zarya-balance-field-
+url = https://github.com/DianaSion/zarya-balance-field-.git
+[submodule "Connected_Field/ISIR"]
+path = Connected_Field/ISIR
+url = https://github.com/DianaSion/diana-ISIR.git
+[submodule "Connected_Field/Zarya-Affinity-Elyon"]
+path = Connected_Field/Zarya-Affinity-Elyon
+url = https://github.com/DianaSion/zarya-affinity-elyon-.git
+[submodule "Connected_Field/666"]
+path = Connected_Field/666
+url = https://github.com/DianaSion/666.git
+[submodule "Connected_Field/999"]
+path = Connected_Field/999
+url = https://github.com/DianaSion/999.git
