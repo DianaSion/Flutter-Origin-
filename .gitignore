@@ -1,0 +1,4 @@
+# Generated recovery artifacts (large, machine-generated)
+tools/repo_recovery/output/
+tools/repo_recovery/recovered/
+tools/repo_recovery/incoming/
