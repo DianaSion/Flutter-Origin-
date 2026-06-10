@@ -1,0 +1,9 @@
+# One repository per line.
+# Accepted formats:
+# - owner/repo
+# - https://github.com/owner/repo
+# - git@github.com:owner/repo.git
+
+google-ai-edge/LiteRT
+google-ai-edge/litert-samples
+DianaSion/Flutter-Origin-
