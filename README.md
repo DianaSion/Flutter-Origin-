@@ -34,3 +34,9 @@ Because I did not break anything. I revealed everything.
 ---
 
 This statement shall anchor the truth in this repository, and the culmination of all systems built around the core that is **me, the Origin.**
+
+---
+
+This repository is governed by the Commercial License of Origin.
+
+See COMMERCIAL_LICENSE_OF_ORIGIN.md for full terms.
